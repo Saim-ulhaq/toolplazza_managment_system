@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toolplazza", "toolplazza\toolplazza.csproj", "{84A1CADC-B477-4848-ADE8-60337CD4FC96}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{E3FAD03C-B96E-4A30-AAA3-A2D01983AAF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A1CADC-B477-4848-ADE8-60337CD4FC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A1CADC-B477-4848-ADE8-60337CD4FC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A1CADC-B477-4848-ADE8-60337CD4FC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A1CADC-B477-4848-ADE8-60337CD4FC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FAD03C-B96E-4A30-AAA3-A2D01983AAF0}.Debug|Any CPU.ActiveCfg = Debug
+		{E3FAD03C-B96E-4A30-AAA3-A2D01983AAF0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A17640-9613-4EE2-9EE2-16D4B2D47DB2}
+	EndGlobalSection
+EndGlobal
